@@ -14,7 +14,7 @@ AT\&T has been able to manually flag spam messages for a time, but they are look
 
 ## Goal
 
-Building a spam detector, that can automatically flag spams as they come based sollely on the sms' content:
+Building a spam detector, that can automatically flag spams as they come based sollely on the sms' content
   
 ## Files:
 You'll find these files in the repository:
