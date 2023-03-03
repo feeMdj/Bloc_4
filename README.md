@@ -5,7 +5,6 @@ Analyse prédictive de données non-structurées par l'intelligence artificielle
 [LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/S4kyxBFuyyDopjpCogLRtn?)
 
 # Orange SPAM detector
-![image](https://user-images.githubusercontent.com/115455973/222465367-d786a74f-c36b-4b1c-bdb9-d2a55e9141b2.png)
 AT\&T Inc. is an American multinational telecommunications holding company headquartered at Whitacre Tower in Downtown Dallas, Texas.
 
 ## Scope of the Project 🚧
